@@ -2,7 +2,7 @@
 
 ## How it works
 
-This project implements a simple **8-bit Arithmetic Logic Unit (ALU)**.
+This project implements a simple **8-bit Arithmetic Logic Unit (ALU) **.
 The ALU supports arithmetic, logical, and shift operations on two 8-bit operands.
 
 The design contains two internal registers:
